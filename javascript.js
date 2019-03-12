@@ -12,3 +12,11 @@ const sequence = [
     'go',
     'go'
 ];
+
+const goLight = document.querySelector('.light.go');
+const yieldLight = document.querySelector('.light.yield');
+const stopLight = document.querySelector('.light.stop');
+
+const goButton = document.querySelector('.btn.go');
+const yieldButton = document.querySelector('.btn.yield');
+const stopButton = document.querySelector('.btn.stop');
